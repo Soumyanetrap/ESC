@@ -16,17 +16,17 @@
 # ESC 50
 ***********
 **Accuracy**: 96.50%
-**Precisio**n: 0.97
-**Recall:**0.97
-**F1 Score:** 0.97
-**ROC AUC:** 1.00
+**Precision**: 0.97
+**Recall**: 0.97
+**F1 Score**: 0.97
+**ROC AUC**: 1.00
 
 
 ***********
 # ESC 10
 ***********
 **Accuracy**: 98.81%
-**Precisio**n: 0.99
-**Recall:**0.99
-**F1 Score:** 0.99
-**ROC AUC:** 1.00
+**Precision**: 0.99
+**Recall**: 0.99
+**F1 Score**: 0.99
+**ROC AUC**: 1.00
